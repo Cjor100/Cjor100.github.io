@@ -1,4 +1,4 @@
-#[Linkedin Profile](https://www.linkedin.com/in/christophermajorunreal/)
+# [Linkedin Profile](https://www.linkedin.com/in/christophermajorunreal/)
 Unreal C++ programmer passionate about NPC design and development. 
 
 # Proffesional Work
@@ -6,5 +6,5 @@ Unreal C++ programmer passionate about NPC design and development.
 
 
 # Hobby Projects
-##[Cjor100.Itch.io](https://cjor100.itch.io/)
-##[L4d2 Survivor Bot Behaviour Improvements](https://github.com/Cjor100/L4d2SurvivorSourcemods)
+## [Cjor100.Itch.io](https://cjor100.itch.io/)
+## [L4d2 Survivor Bot Behaviour Improvements](https://github.com/Cjor100/L4d2SurvivorSourcemods)
