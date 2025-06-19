@@ -16,6 +16,6 @@ Bot behaviour modifications ive made for my own enjoyment while playing single p
 ### [Cjor100.itch.io](https://cjor100.itch.io/)
 Small game jam projects done with friends
 
-#### [Double Agent](https://cjor100.itch.io/doubleagent)
+### [Double Agent](https://cjor100.itch.io/doubleagent)
 College capstone project with another programmer and a team of artists. Along with leading and coordinating the team, I have worked on the animations, gameplay design, map design, and all artificial intelligence systems. My main focus for this project was developing a believable and intelligent AI system based on techniques from the 
 industry best in NPCs; taking inspiration from games such as Fear, Halo, and Half-Life.
