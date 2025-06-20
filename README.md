@@ -1,4 +1,4 @@
-# [Linkedin Profile](https://www.linkedin.com/in/christophermajorunreal/)
+
 Unreal C++ programmer passionate about NPC design and development. 
 
 * * *
@@ -6,6 +6,8 @@ Unreal C++ programmer passionate about NPC design and development.
 # Professional Work
 ### [Up360 2021-2024](https://up360.co/portfolio/)
 At Up360 I did gameplay programming for multiple projects and developed a event-based scripting system used in 6+ simulations.
+
+### [Linkedin Profile](https://www.linkedin.com/in/christophermajorunreal/)
 
 * * *
 
