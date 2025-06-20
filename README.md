@@ -13,7 +13,7 @@ At UP360 I did gameplay programming for multiple projects and developed a event-
 
 # Hobby Projects
 ### [L4d2 Survivor Bot Behaviour Improvements](https://github.com/Cjor100/L4d2SurvivorSourcemods)
-Bot behaviour modifications ive made for my own enjoyment while playing single player
+Bot behaviour modifications I've made for my own enjoyment while playing single player
 
 ### [Cjor100.itch.io](https://cjor100.itch.io/)
 Small game jam projects done with friends
