@@ -4,8 +4,8 @@
 * * *
 
 # Professional Work
-### [Up360 2021-2024](https://up360.co/portfolio/)
-At Up360 I did gameplay programming for multiple projects and developed a event-based scripting system used in 6+ simulations.
+### [UP360 2021-2024](https://up360.co/portfolio/)
+At UP360 I did gameplay programming for multiple projects and developed a event-based scripting system used in 6+ simulations.
 
 ### [See more on my Linkedin profile](https://www.linkedin.com/in/christophermajorunreal/)
 
